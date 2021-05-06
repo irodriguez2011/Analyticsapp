@@ -5,7 +5,7 @@ function websiteVisitors(props) {
         <div className="websiteVisitors">
             <h3> Website Visitors</h3>
             <h4> {props.webVisitors}</h4>
-            <div className="graph"> Graph </div>
+            <div className="graph"> <p> Graph</p> </div>
         </div>
     )
 }
